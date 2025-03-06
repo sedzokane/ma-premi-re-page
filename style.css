@@ -1,0 +1,29 @@
+p{
+    font-family: Arial,sans-serif;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+    background-color: #bbb;
+    padding: 150px;
+    background-image: url(téléchargement.jpg);
+    background-position: center;
+    border: 2px dotted black;
+}
+p{
+    margin: 50px;
+    background-color: #bac9ce;
+    padding: 50px;
+    padding-bottom: 100px;
+    padding-left: 20px;
+    padding-right: 200px;
+}
+div{
+    padding: 50px 0px;
+    background-image: url(image2.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 250px;
+    height: 300px;
+}
